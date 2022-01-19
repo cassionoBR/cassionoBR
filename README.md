@@ -4,9 +4,7 @@
 - 🌱 I'm studying systems development...
 - 📫 How to contact me:
    <img src="https://img.icons8.com/officexs/16/000000/whatsapp.png"/> - (83) 99642-7696
-- 😄 Pronouns: ...
-- ⚡ Curiosity: ...                                                 
-
+                                               
 
 - Ferramentas e tecnologias:
 
