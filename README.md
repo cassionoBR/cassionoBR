@@ -23,3 +23,4 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
+  <iframe src="https://giphy.com/embed/ZvU5gJBGbAwZW49M3f" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/BEDU-python-django-bedu-ZvU5gJBGbAwZW49M3f">via GIPHY</a></p>
