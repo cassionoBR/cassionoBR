@@ -3,7 +3,12 @@
 - 🔭 I'm currently not working...
 - 🌱 I'm studying systems development...
 - 📫 How to contact me:
+- 
    <img src="https://img.icons8.com/officexs/16/000000/whatsapp.png"/> - (83) 99642-7696
+   
+   <img src="https://img.icons8.com/officexs/16/000000/instagram-new.png"/> cassionobrega_
+   
+   <img src="https://img.icons8.com/officexs/16/000000/linkedin.png"/> linkedin.com/in/cássio-nóbrega-06b00a228
                                                
 
 - Ferramentas e tecnologias:
