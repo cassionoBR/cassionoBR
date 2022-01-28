@@ -24,5 +24,6 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
 
 ![meconmtra](https://user-images.githubusercontent.com/97806657/150201581-ff69f5cb-c538-4baf-b80c-dac4da3320bd.gif) 
